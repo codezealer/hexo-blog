@@ -142,5 +142,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/codezealer/codezealer.github.io
+  repo: git@github.com:codezealer/codezealer.github.io.git
   branch: master
